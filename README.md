@@ -1,2 +1,2 @@
-# dualencoder_singlechannel
-dautomap,unet and dualencoder_unet models evaluated on single channel MRI dataset
+# dualencoder_cardiac
+implementing dAutomap,Unet and Dual-Encoder-Unet models on Cardiac dataset
