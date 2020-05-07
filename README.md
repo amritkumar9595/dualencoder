@@ -6,10 +6,10 @@ dautomap,unet and dualencoder_unet models evaluated on single channel MRI datase
 imlementing dautomap,unet and dualencoder on Brain,Cardiac,Knee single channel data
 
 
-<img src="images/fs4.png" width = 100>  <img src="images/us4.png" width = 100>
-<img src="images/dauto4.png" width = 100>
-<img src="images/unet4.png" width = 100>
-<img src="images/dual4.png" width = 100>
+<img src="images/fs4.png" width = 200>  <img src="images/us4.png" width = 200>
+<img src="images/dauto4.png" width = 200>
+<img src="images/unet4.png" width = 200>
+<img src="images/dual4.png" width = 200>
 
 
 >>>>>>> 38c7ac79645e9ed82548c0fcfc77d9500d6ff428
