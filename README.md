@@ -4,6 +4,10 @@
 dautomap,unet and dualencoder_unet models evaluated on single channel MRI dataset
 =======
 imlementing dautomap,unet and dualencoder on Brain,Cardiac,Knee single channel data
+
+
+<img src="images/fs4.png"
+
 >>>>>>> 38c7ac79645e9ed82548c0fcfc77d9500d6ff428
 =======
 implementing dAutomap,Unet and Dual-Encoder-Unet on Calgary,Cardiac and Knee datasets 
