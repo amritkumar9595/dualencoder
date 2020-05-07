@@ -1,7 +1,5 @@
 # dualencoder_singlechannel
-<<<<<<< HEAD
-<<<<<<< HEAD
-dautomap,unet and dualencoder_unet models evaluated on single channel MRI dataset
+dAutomap,Unet and Dual-Encoder-Unet models evaluated on single channel Calgary Brain dataset
 =======
 imlementing dautomap,unet and dualencoder on Brain,Cardiac,Knee single channel data
 <img src="images/dualencoder_fin.png">
