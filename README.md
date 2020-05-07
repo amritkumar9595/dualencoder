@@ -1,7 +1,22 @@
 # dualencoder_singlechannel
-dAutomap,Unet and Dual-Encoder-Unet models evaluated on single channel Calgary Brain dataset
 =======
-imlementing dautomap,unet and dualencoder on Brain,Cardiac,Knee single channel data
+Deep learning has shown great promise for successful accel-
+eration of MRI data acquisition. A variety of architectures
+have been proposed to obtain high fidelity image from par-
+tially observed kspace or undersampled image. U-Net has
+demonstrated impressive performance for providing high
+quality reconstruction from undersampled image data. The
+recently proposed dAutomap is an innovative approach to di-
+rectly learn the domain transformation from source kspace to
+target image domain. However these networks operate only
+on a single domain where information from the excluded
+domain is not utilized for reconstruction. This paper provides
+a deep learning based strategy by simultaneously optimiz-
+ing both the raw kspace data and undersampled image data
+for reconstruction. Our experiments demonstrate that, such
+a hybrid approach can potentially improve reconstruction,
+compared to deep learning networks that operate solely on a
+single domain.
 <img src="images/dualencoder_fin.png">
 
 <img src="images/fs4.png" width = 175>  <img src="images/us4.png" width = 175>
