@@ -1,5 +1,4 @@
 # Dual-Encoder-Unet
-
 This repository provides reproducible code for our paper titled: "**Dual-Encoder-Unet for fast MRI Reconstruction**"
 <br>
 The paper got accepted in IEEE 17th International Symposium on Biomedical Imaging Workshops (ISBI Workshops-2020) held at Iowa City, USA.
