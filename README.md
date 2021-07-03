@@ -42,8 +42,6 @@ The Cardiac MRI data is collected from [Automated Cardiac Diagnosis Challenge (A
 <img src="cardiac/images/dauto_cardiac.png" width = 175>
 <img src="cardiac/images/unet_cardiac.png" width = 175>
 <img src="cardiac/images/dual_cardiac.png" width = 175> -->
-<br>
-<br>
 
 ## cite
 if you use our work in your experiments please cite as :
