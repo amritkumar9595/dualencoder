@@ -10,7 +10,12 @@ demonstrated impressive performance for providing high quality reconstruction fr
 </figure>
     
 <!-- <img src="brain/images/dualencoder_fin.png"> -->
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <img src="brain/images/fs4.png" width = 175>  <img src="brain/images/us4.png" width = 175>
 <img src="brain/images/dauto4.png" width = 175>
 <img src="brain/images/unet4.png" width = 175>
