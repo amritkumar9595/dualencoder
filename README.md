@@ -46,7 +46,9 @@ The Cardiac MRI data is collected from [Automated Cardiac Diagnosis Challenge (A
 <br>
 ---
 ## cite
-if you use our work in your experiments please cite as : 
+if you use our work in your experiments please cite as :
+
+
 ```
     @inproceedings{jethi2020dual,
     title={Dual-Encoder-Unet For Fast Mri Reconstruction},
