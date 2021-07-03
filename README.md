@@ -16,20 +16,20 @@ demonstrated impressive performance for providing high quality reconstruction fr
     * U-Net
     * Dual-Encoder Unet
 
-# Experients with Brain MRI
+## Experients with Brain MRI
 
-## dataset
+### dataset
 The Brain MRI data is collected from [Calgary-Campinas Public Brain MR Datasest](https://sites.google.com/view/calgary-campinas-dataset/home). 
 
-## results
+### results
 <img src="brain/brain.png">
 
-# Experiments with Cardiac MRI
+## Experiments with Cardiac MRI
 
-## dataset
+### dataset
 The Cardiac MRI data is collected from [Automated Cardiac Diagnosis Challenge (ACDC)](https://acdc.creatis.insa-lyon.fr/description/databases.html). 
 
-## results
+### results
 <img src="cardiac/cardiac.png">
 
 
