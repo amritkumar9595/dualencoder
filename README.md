@@ -12,7 +12,7 @@ demonstrated impressive performance for providing high quality reconstruction fr
 <img src="brain/images/unet4.png" width = 175>
 <img src="brain/images/dual4.png" width = 175>
 
-<img src="images/images/fs_cardiac.png" width = 175>  <img src="cardiac/images/us_cardiac.png" width = 175>
+<img src="cardiac/images/fs_cardiac.png" width = 175>  <img src="cardiac/images/us_cardiac.png" width = 175>
 <img src="cardiac/images/dauto_cardiac.png" width = 175>
 <img src="cardiac/images/unet_cardiac.png" width = 175>
 <img src="cardiac/images/dual_cardiac.png" width = 175>
