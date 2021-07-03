@@ -53,7 +53,7 @@ def create_data_loaders(args):
     )
     display_loader = DataLoader(
         dataset=display_data,
-        batch_size=16,
+        batch_size=1,
         #num_workers=64,
         #pin_memory=True,
     )
