@@ -5,9 +5,6 @@ Deep learning has shown great promise for successful acceleration of MRI data ac
 have been proposed to obtain high fidelity image from partially observed kspace or undersampled image. U-Net has
 demonstrated impressive performance for providing high quality reconstruction from undersampled image data. The recently proposed dAutomap is an innovative approach to directly learn the domain transformation from source kspace to target image domain. However these networks operate only on a single domain where information from the excluded domain is not utilized for reconstruction. This paper provides a deep learning based strategy by simultaneously optimizing both the raw kspace data and undersampled image data for reconstruction. Our experiments demonstrate that, such a hybrid approach can potentially improve reconstruction, compared to deep learning networks that operate solely on a single domain.
 
-
-
-
 <img src="brain/images/dualencoder_fin.png">
 
 * Brain
@@ -18,9 +15,7 @@ demonstrated impressive performance for providing high quality reconstruction fr
     * dAutomap
     * U-Net
     * Dual-Encoder Unet
-<br>
-<br>
----
+
 # Experients with Brain MRI
 
 ## dataset
@@ -28,10 +23,6 @@ The Brain MRI data is collected from [Calgary-Campinas Public Brain MR Datasest]
 
 ## results
 <img src="brain/brain.png">
-<br>
-<br>
----
----
 
 # Experiments with Cardiac MRI
 
@@ -54,5 +45,15 @@ The Cardiac MRI data is collected from [Automated Cardiac Diagnosis Challenge (A
 <br>
 <br>
 ---
-# Conclusion
-
+## cite
+if you use our work in your experiments please cite as : 
+```
+    @inproceedings{jethi2020dual,
+    title={Dual-Encoder-Unet For Fast Mri Reconstruction},
+    author={Jethi, Amrit Kumar and Murugesan, Balamurali and Ram, Keerthi and Sivaprakasam, Mohanasankar},
+    booktitle={2020 IEEE 17th International Symposium on Biomedical Imaging Workshops (ISBI Workshops)},
+    pages={1--4},
+    year={2020},
+    organization={IEEE}
+    }
+```
