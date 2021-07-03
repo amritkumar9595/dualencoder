@@ -19,9 +19,8 @@ demonstrated impressive performance for providing high quality reconstruction fr
     * U-Net
     * Dual-Encoder Unet
 <br>
----
 <br>
-
+---
 # Experients with Brain MRI
 
 ## dataset
@@ -52,3 +51,8 @@ The Cardiac MRI data is collected from [Automated Cardiac Diagnosis Challenge (A
 <img src="cardiac/images/dauto_cardiac.png" width = 175>
 <img src="cardiac/images/unet_cardiac.png" width = 175>
 <img src="cardiac/images/dual_cardiac.png" width = 175> -->
+<br>
+<br>
+---
+# Conclusion
+
